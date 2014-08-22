@@ -44,7 +44,6 @@ class Installer extends LibraryInstaller
         'phpbb'        => 'PhpBBInstaller',
         'pimcore'      => 'PimcoreInstaller',
         'piwik'        => 'PiwikInstaller',
-        'piwik'        => 'PiwikInstaller',
         'ppi'          => 'PPIInstaller',
         'puppet'       => 'PuppetInstaller',
         'redaxo'       => 'RedaxoInstaller',
